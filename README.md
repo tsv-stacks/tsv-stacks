@@ -1,9 +1,10 @@
-# Hello there!
+<h1 align="center">Hello there!</h1>
 
-## About Me
+<h2 align="center">About Me</h2>
 
-I am a software developer with a background in microbiology and R&D within the food industry. Currently learning full-stack web development at Command Shift (FKA Manchester Codes). Experienced in JavaScript based programming. A highly competent
-and focused individual, always keen to acquire new skills and a deeper understanding of technology, methods and
+I am a software developer with a background in microbiology and R&D within the food industry. Currently learning full-stack web development at Command Shift (FKA Manchester Codes).
+
+Experienced in JavaScript based programming. A highly competent and focused individual, always keen to acquire new skills and a deeper understanding of technology, methods and
 quality.
 
 <div align="center">
