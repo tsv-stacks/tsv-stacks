@@ -1,6 +1,6 @@
 <h1 align="center">Hello there!</h1>
 
-<h2 align="center">About Me</h2>
+<h2 >About Me</h2>
 
 I am a software developer with a background in microbiology and R&D within the food industry. Currently learning full-stack web development at Command Shift (FKA Manchester Codes).
 
@@ -18,3 +18,7 @@ quality.
     </div>
     <img src="https://komarev.com/ghpvc/?username=tsv-stacks&style=flat-square&color=blue" alt=""/>
 </div>
+
+<h2>My Stats:</h2>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tsv-stacks&theme=dark)](https://git.io/streak-stats)
