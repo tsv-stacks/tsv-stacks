@@ -22,3 +22,5 @@ quality.
 <h2>My Stats:</h2>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tsv-stacks&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsv-stacks&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
